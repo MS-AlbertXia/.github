@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="toutu.png" alt="头图" width="850"/>
+  <img src="blob/main/toutu.png" alt="头图" width="850"/>
 </p>
 <h2 align="center">我很期待……这场只属于你我的游戏。<br>·椿·</h2>
 
