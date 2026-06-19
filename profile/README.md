@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="blob/main/toutu.png" alt="头图" width="850"/>
+  <img src="blob/main/toutu.png" alt="头图" />
 </p>
 <h2 align="center">我很期待……这场只属于你我的游戏。<br>·椿·</h2>
 
@@ -7,7 +7,7 @@
   <img src="https://moe-counter.lxchapu.com/MS-AlbertXia?theme=moebooru" alt="visitor_counter" />
 </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Seren Xia&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=宏星·维智 | 宏星·吾耀&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Seren Xia&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=宏星·维智 | 宏星·吾耀&descAlignY=55" />
 
 ![Typing SVG 中文](https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=25&duration=3000&pause=1000&color=FF69B4&cursorColor=DA0078&random=false&width=435&lines=Hello!;我是夏子涵;宏维星智智慧科技工作室+创始人;宏吾星耀工作室+创始人+CEO;中国高中生;湖北人;初级极客;二次元;喜欢折腾)<br>
 
