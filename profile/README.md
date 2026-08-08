@@ -7,8 +7,6 @@
   <img src="https://moe-counter.lxchapu.com/MS-AlbertXia?theme=moebooru" alt="visitor_counter" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Seren Xia&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=宏星·维智 | 宏星·吾耀&descAlignY=55" />
-
 ![Typing SVG 中文](https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&size=25&duration=3000&pause=1000&color=FF69B4&cursorColor=DA0078&random=false&width=435&lines=Hello!;我是夏子涵;宏维星智智慧科技工作室+创始人;宏吾星耀工作室+创始人+CEO;中国高中生;湖北人;初级极客;二次元;喜欢折腾)<br>
 
 ## 👋 Hi there
@@ -26,15 +24,14 @@
 
 ## 🌟 My Projects
 
-- [MacroPath【重构中·个人作品】](https://github.com/Seren-Xia/MacroPath) - 宏星智途是一款基于AI的个性化学习助手软件，旨在通过人工智能技术为用户提供定制化的学习体验。
-- [Lunar Bot【Public archive·工作室作品】](https://github.com/MacroSTAR-MS/Lunar_Bot) - 全能 感知 个性 - 浅月，新一代QQ机器人（[Jianer QQ Bot](https://github.com/SRInternet-Studio/Jianer_QQ_Bot)下游分支作品）
 - [Lunar X【开发中·工作室作品】](https://github.com/MacroSTAR-MS/Lunar_X) - 新一代QQ机器人框架，隆重登场。
+- [MacroPath【重构中·工作室作品】](https://github.com/Seren-Xia/MacroPath) - 宏星智途是一款基于AI的个性化学习助手软件，旨在通过人工智能技术为用户提供定制化的学习体验。
+- [Lunar Bot【Public archive·工作室作品】](https://github.com/MacroSTAR-MS/Lunar_Bot) - 全能 感知 个性 - 浅月，新一代QQ机器人（[Jianer QQ Bot](https://github.com/SRInternet-Studio/Jianer_QQ_Bot)下游分支作品）
+- [Lunar Valley XI【Starfire United Team】](https://www.bilibili.com/opus/1233655237556830211) - Lunar Valley XI 8月暑假更新 v26.8.7（Build With [Starfire United Team](https://space.bilibili.com/1845800720)）
 
 ## ❣️ Fun Facts
 
 - 是个废物，但还有点用。
-- 不是男娘，但快了。
-- 有个女朋友✅
 - 家长管得严，所以经常失联。
 - 共青团员🏞️
 
